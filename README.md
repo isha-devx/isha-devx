@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/isha-lohani-90a530302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:isha2254it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/isha_lohani"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
 </p>
 
 ---
@@ -61,16 +61,6 @@ I'm looking for **Software Engineer, Data Analyst and AI/ML fresher roles**.
 ## 🧩 Problem Solving
 
 Solving DSA and SQL problems on LeetCode and HackerRank. My solutions are in [dsa-practice](https://github.com/isha-devx/dsa-practice).
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/isha_lohani?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=isha-devx&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 <p align="center">Open to full-time fresher roles · <a href="mailto:isha2254it@gmail.com">Let's connect</a></p>
